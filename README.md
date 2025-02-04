@@ -1,4 +1,6 @@
 
+- Deployed on : https://bento-box-dashboard.vercel.app/
+
 ## Installation and Setup
 
 - npm install
